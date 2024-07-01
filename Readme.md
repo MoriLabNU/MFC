@@ -39,7 +39,7 @@ pip install -r requirements.txt
 [//]: # (```)
 
 As [DAFormer](https://github.com/lhoyer/DAFormer),
-please download the [MiT weights](https://drive.google.com/drive/folders/1b7bwrInTW4VLEm27YawHOAMSMikga2Ia?usp=sharing)
+please download the [MiT weights(mit_b5.pth)](https://drive.google.com/drive/folders/19o1AP-RtlrA7IDUgVUkaK5XBw6NqQ--H?usp=drive_link)
 pretrained on ImageNet-1K provided by the official
 [SegFormer repository](https://github.com/NVlabs/SegFormer) and put them in a
 folder `pretrained/` within this project. Only mit_b5.pth is necessary.
